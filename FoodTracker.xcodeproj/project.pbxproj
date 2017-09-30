@@ -14,6 +14,7 @@
 		E9698DE21F709EED004E3989 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9698DE11F709EED004E3989 /* Assets.xcassets */; };
 		E9698DE51F709EED004E3989 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9698DE31F709EED004E3989 /* LaunchScreen.storyboard */; };
 		E9698DF01F709EED004E3989 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9698DEF1F709EED004E3989 /* FoodTrackerTests.swift */; };
+		E96B50C11F7FEC3400D2C53E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96B50C01F7FEC3400D2C53E /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E9698DEB1F709EED004E3989 /* FoodTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9698DEF1F709EED004E3989 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		E9698DF11F709EED004E3989 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E96B50C01F7FEC3400D2C53E /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				E9698DDA1F709EED004E3989 /* AppDelegate.swift */,
 				E9413F961F75D10600C69EDC /* RatingControl.swift */,
 				E9698DDC1F709EED004E3989 /* ViewController.swift */,
+				E96B50C01F7FEC3400D2C53E /* Meal.swift */,
 				E9698DDE1F709EED004E3989 /* Main.storyboard */,
 				E9698DE11F709EED004E3989 /* Assets.xcassets */,
 				E9698DE31F709EED004E3989 /* LaunchScreen.storyboard */,
@@ -204,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E96B50C11F7FEC3400D2C53E /* Meal.swift in Sources */,
 				E9698DDD1F709EED004E3989 /* ViewController.swift in Sources */,
 				E9413F971F75D10600C69EDC /* RatingControl.swift in Sources */,
 				E9698DDB1F709EED004E3989 /* AppDelegate.swift in Sources */,
