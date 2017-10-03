@@ -81,7 +81,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="Bur-Dr-QOq">
-                                <rect key="frame" x="16" y="84" width="343" height="416"/>
+                                <rect key="frame" x="16" y="104" width="343" height="416"/>
                                 <subviews>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter meal name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="rOV-Ff-cEr">
                                         <rect key="frame" x="0.0" y="0.0" width="343" height="30"/>
@@ -154,7 +154,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="1722" y="139"/>
+            <point key="canvasLocation" x="1197" y="139"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="n9H-Qa-D0J">
@@ -172,7 +172,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6YE-it-DN6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-752.79999999999995" y="138.98050974512745"/>
+            <point key="canvasLocation" x="-359" y="139"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Bwm-Li-BUJ">
@@ -190,7 +190,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AIj-ex-eih" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="946" y="139"/>
+            <point key="canvasLocation" x="681" y="139"/>
         </scene>
     </scenes>
     <resources>
